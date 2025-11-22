@@ -55,7 +55,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Construyendo+soluciones+escalables;Becado+Universidad+del+Atl%C3%A1ntico;Miembro+de+Presencia+Web+Santander;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Building+scalable+solutions;Scholarship+University+of+Atlantic;Member+of+Presencia+Web+Santander;Student+of+Compute+Engineering" alt="Typing SVG" />
 </p>
 
 </div>
@@ -63,7 +63,7 @@
 ---
 
 ## 🪴 About Me
-<img align="right" alt="Cherry" width="200" src="https://raw.githubusercontent.com/alejandro-larin/alejandro-larin/main/cherry.svg">
+<img align="right" alt="Cherry" width="250" src="https://raw.githubusercontent.com/alejandro-larin/alejandro-larin/main/cherry.svg">
 
 I am **Alejandro Larin**, my work focuses on building scalable, cloud-ready and high-performance systems‑. I combine software expertise to deliver reliable solutions with clear architecture, clean code and automation at the center. I focus on clarity, conciseness and impact: 
 - **Clear purpose —** I design systems that solve real problems. 
@@ -172,18 +172,18 @@ timeline
 
 ---
 
-## 🎓 Educación & Certificaciones
+## 🎓 Education & Certifications
 
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Universidad-1e1e2e?style=for-the-badge&logo=google-scholar&logoColor=89b4fa" alt="Universidad"/>
-      <h3>Universidad del Atlántico</h3>
-      <p><strong>Ingeniería Informática</strong></p>
-      <p>Becado FUNIBER</p>
+      <img src="https://img.shields.io/badge/University-1e1e2e?style=for-the-badge&logo=google-scholar&logoColor=89b4fa" alt="University"/>
+      <h3>Atlantic University</h3>
+      <p><strong>Computer Engineering</strong></p>
+      <p>FUNIBER Scholarship</p>
     </td>
     <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Organización-1e1e2e?style=for-the-badge&logo=building&logoColor=cba6f7" alt="Organización"/>
+      <img src="https://img.shields.io/badge/Organization-1e1e2e?style=for-the-badge&logo=building&logoColor=cba6f7" alt="Organization"/>
       <h3>Presencia Web Santander</h3>
       <p><strong>Developer Team Member</strong></p>
       <p>Desarrollo Web Full Stack</p>
@@ -193,7 +193,7 @@ timeline
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -207,7 +207,7 @@ timeline
         </a>
         <p>
           <a href="https://github.com/alejandro-larin/proyecto1" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Código"/>
+            <img src="https://img.shields.io/badge/CODE-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Code"/>
           </a>
           <a href="https://proyecto1-demo.com" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-1e1e2e?style=for-the-badge&logo=vercel&logoColor=89b4fa" alt="Demo"/>
@@ -225,7 +225,7 @@ timeline
         </a>
         <p>
           <a href="https://github.com/alejandro-larin/proyecto2" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Código"/>
+            <img src="https://img.shields.io/badge/CODE-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Code"/>
           </a>
           <a href="https://proyecto2-demo.com" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-1e1e2e?style=for-the-badge&logo=vercel&logoColor=89b4fa" alt="Demo"/>
@@ -245,7 +245,7 @@ timeline
         </a>
         <p>
           <a href="https://github.com/alejandro-larin/proyecto3" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Código"/>
+            <img src="https://img.shields.io/badge/CODE-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Code"/>
           </a>
           <a href="https://proyecto3-demo.com" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-1e1e2e?style=for-the-badge&logo=vercel&logoColor=89b4fa" alt="Demo"/>
@@ -263,7 +263,7 @@ timeline
         </a>
         <p>
           <a href="https://github.com/alejandro-larin/proyecto4" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Código"/>
+            <img src="https://img.shields.io/badge/CODE-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Code"/>
           </a>
         </p>
         <p><strong>Google AppScript, Sheets API, Gmail API</strong></p>
@@ -282,19 +282,19 @@ timeline
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Trabajo_en_Equipo-1e1e2e?style=for-the-badge&logo=microsoft-teams&logoColor=89b4fa" alt="Trabajo en Equipo"/>
+      <img src="https://img.shields.io/badge/Teamwork-1e1e2e?style=for-the-badge&logo=microsoft-teams&logoColor=89b4fa" alt="Teamwork"/>
       <p>Effective collaboration in multidisciplinary teams</p>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Resolución_de_Problemas-1e1e2e?style=for-the-badge&logo=lighthouse&logoColor=cba6f7" alt="Resolución de Problemas"/>
+      <img src="https://img.shields.io/badge/Problem_solving-1e1e2e?style=for-the-badge&logo=lighthouse&logoColor=cba6f7" alt="Problem solving"/>
       <p>Critical analysis and creative solutions</p>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Comunicación-1e1e2e?style=for-the-badge&logo=telegram&logoColor=a6e3a1" alt="Comunicación"/>
+      <img src="https://img.shields.io/badge/Communication-1e1e2e?style=for-the-badge&logo=telegram&logoColor=a6e3a1" alt="Communication"/>
       <p>Clear documentation and effective communication</p>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Aprendizaje_Continuo-1e1e2e?style=for-the-badge&logo=bookstack&logoColor=f9e2af" alt="Aprendizaje"/>
+      <img src="https://img.shields.io/badge/Learning-1e1e2e?style=for-the-badge&logo=bookstack&logoColor=f9e2af" alt="Learning"/>
       <p>Constant adaptation to new technologies</p>
     </td>
   </tr>
@@ -335,25 +335,25 @@ timeline
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=alejandro-larin&label=Visitas%20al%20Perfil&color=89b4fa&style=for-the-badge&base=1000" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=alejandro-larin&label=Profile_Views&color=89b4fa&style=for-the-badge&base=1000" alt="Profile Views" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/alejandro-larin?label=Seguidores&style=for-the-badge&color=89b4fa&labelColor=1e1e2e" alt="Followers" />
+<img src="https://img.shields.io/github/followers/alejandro-larin?label=Followers&style=for-the-badge&color=89b4fa&labelColor=1e1e2e" alt="Followers" />
 <img src="https://img.shields.io/github/stars/alejandro-larin?label=Stars&style=for-the-badge&color=cba6f7&labelColor=1e1e2e" alt="Stars" />
 
 </div>
 
 ---
 
-## 🌟 Testimonios
+## 🌟 Testimonials
 
 <div align="center">
 
-> "Alex es un desarrollador excepcional con gran capacidad de aprendizaje y compromiso con la calidad del código."  
+> "Alejandro is an exceptional developer with great learning ability and commitment to code quality."  
 > **— Team Presencia Web Santander**
 
-> "Su dominio en conocimientos DevOps ha sido fundamental para el éxito de nuestros proyectos."  
+> "His mastery of DevOps knowledge has been fundamental to the success of our projects."  
 > **— Senior Leader**
 
 </div>
