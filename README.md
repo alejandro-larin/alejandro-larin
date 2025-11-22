@@ -1,7 +1,7 @@
 <div align="center">
   
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=¡Alex%20Larin!&fontSize=24&fontColor=cdd6f4&animation=twinkling" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
  </div>
 
 <!-- Banner SVG Animado con tema Catppuccin -->
