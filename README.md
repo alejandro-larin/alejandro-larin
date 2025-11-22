@@ -62,8 +62,12 @@
 
 ---
 
-## 🪴 Sobre Mí
+## 🪴 About Me
 
+I am **Alejandro Larin**, my work focuses on building scalable, cloud-ready and high-performance systems‑. I combine software expertise to deliver reliable solutions with clear architecture, clean code and automation at the center. I focus on clarity, conciseness and impact: 
+- **Clear purpose —** I design systems that solve real problems. 
+- **Structured reasoning —** I build architectures that are predictable, testable and maintainable. 
+- **High ‑ value execution —** I optimize delivery processes, automate operations and improve product quality. I thrive in environments where technology, strategy and creativity converge.
 <img align="right" alt="Cherry" width="200" src="https://raw.githubusercontent.com/alejandro-larin/alejandro-larin/main/cherry.svg">
 
 <br clear="right"/>
@@ -80,7 +84,6 @@
   <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89b4fa" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=next.js&logoColor=cdd6f4" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-1e1e2e?style=for-the-badge&logo=vue.js&logoColor=a6e3a1" alt="Vue"/>
   <img src="https://img.shields.io/badge/Tailwind-1e1e2e?style=for-the-badge&logo=tailwind-css&logoColor=89dceb" alt="Tailwind"/>
 </p>
 
@@ -90,7 +93,6 @@
   <img src="https://img.shields.io/badge/NestJS-1e1e2e?style=for-the-badge&logo=nestjs&logoColor=f38ba8" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Express-1e1e2e?style=for-the-badge&logo=express&logoColor=cdd6f4" alt="Express"/>
   <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=89dceb" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/AppScript-1e1e2e?style=for-the-badge&logo=google&logoColor=89b4fa" alt="AppScript"/>
 </p>
 
@@ -147,30 +149,10 @@
 
 </div>
 
-## 💼 Experiencia Profesional
+## 💼 Professional experience
 
 <div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e1e2e', 'primaryTextColor':'#cdd6f4', 'primaryBorderColor':'#89b4fa', 'lineColor':'#cba6f7', 'secondaryColor':'#313244', 'tertiaryColor':'#1e1e2e'}}}%%
-timeline
-    title Mi Trayectoria Profesional & Académica
-    2021 : Inicio en Desarrollo Web
-         : HTML, CSS, JavaScript
-         : Primeros proyectos personales
-    2022 : Ingreso a Universidad del Atlántico
-         : Beca FUNIBER
-         : Fundamentos de Programación
-    2023 : Developer en Presencia Web Santander
-         : Desarrollo con TypeScript y NestJS
-         : Implementación de CI/CD
-         : Trabajo con WordPress empresarial
-    2024 : Full Stack Developer
-         : Arquitectura de Microservicios
-         : Docker & Kubernetes
-         : Google Cloud Platform
-         : Integración de IA con Ollama
-```
+```mermaid %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e1e2e', 'primaryTextColor':'#cdd6f4', 'primaryBorderColor':'#89b4fa', 'lineColor':'#cba6f7', 'secondaryColor':'#313244', 'tertiaryColor':'#1e1e2e'}}}%% timeline title My Professional & Academic Career 2021: Home in Web Development : HTML, CSS, JavaScript : First personal projects 2022: Admission to Universidad del Atlántico : FUNIBER Scholarship : Programming Fundamentals 2023: Developer in Santander Web Presence : Development with TypeScript and NestJS : CI/CD implementation : Working with enterprise WordPress 2024: Full Stack Developer : Microservices Architecture : Docker & Kubernetes : Google Cloud Platform : AI integration with Ollama ```
 
 </div>
 
@@ -204,7 +186,7 @@ timeline
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Sistema de Gestión Empresarial</h3>
+      <h3 align="center">Business Management System</h3>
       <div align="center">
         <a href="https://github.com/alejandro-larin/proyecto1" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto1&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 1" />
@@ -218,11 +200,11 @@ timeline
           </a>
         </p>
         <p><strong>NestJS, TypeScript, PostgreSQL, Docker</strong></p>
-        <p>Sistema completo de gestión con arquitectura de microservicios, autenticación JWT y panel de administración.</p>
+        <p>Complete management system with microservices architecture, JWT authentication and administration panel.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">API RESTful con CI/CD</h3>
+      <h3 align="center">API RESTful with CI/CD</h3>
       <div align="center">
         <a href="https://github.com/alejandro-larin/proyecto2" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto2&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 2" />
@@ -236,7 +218,7 @@ timeline
           </a>
         </p>
         <p><strong>Express, MongoDB, Jenkins, GitLab CI</strong></p>
-        <p>API escalable con pipeline de CI/CD automatizado, tests con Jest y despliegue en Google Cloud.</p>
+        <p>Scalable API with automated CI/CD pipeline, testing with Jest and deployment in Google Cloud.</p>
       </div>
     </td>
   </tr>
@@ -256,11 +238,11 @@ timeline
           </a>
         </p>
         <p><strong>React, TypeScript, Tailwind, Chart.js</strong></p>
-        <p>Dashboard interactivo con visualización de datos en tiempo real y diseño responsive moderno.</p>
+        <p>Interactive dashboard with real-time data visualization and modern responsive design.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Automatización con AppScript</h3>
+      <h3 align="center">Automation with AppScript</h3>
       <div align="center">
         <a href="https://github.com/alejandro-larin/proyecto4" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto4&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 4" />
@@ -271,7 +253,7 @@ timeline
           </a>
         </p>
         <p><strong>Google AppScript, Sheets API, Gmail API</strong></p>
-        <p>Herramientas de automatización para Google Workspace, procesamiento de datos y reportes automáticos.</p>
+        <p>Automation tools for Google Workspace, data processing and automatic reports.</p>
       </div>
     </td>
   </tr>
@@ -287,19 +269,19 @@ timeline
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Trabajo_en_Equipo-1e1e2e?style=for-the-badge&logo=microsoft-teams&logoColor=89b4fa" alt="Trabajo en Equipo"/>
-      <p>Colaboración efectiva en equipos multidisciplinarios</p>
+      <p>Effective collaboration in multidisciplinary teams</p>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Resolución_de_Problemas-1e1e2e?style=for-the-badge&logo=lighthouse&logoColor=cba6f7" alt="Resolución de Problemas"/>
-      <p>Análisis crítico y soluciones creativas</p>
+      <p>Critical analysis and creative solutions</p>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Comunicación-1e1e2e?style=for-the-badge&logo=telegram&logoColor=a6e3a1" alt="Comunicación"/>
-      <p>Documentación clara y comunicación efectiva</p>
+      <p>Clear documentation and effective communication</p>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Aprendizaje_Continuo-1e1e2e?style=for-the-badge&logo=bookstack&logoColor=f9e2af" alt="Aprendizaje"/>
-      <p>Adaptación constante a nuevas tecnologías</p>
+      <p>Constant adaptation to new technologies</p>
     </td>
   </tr>
 </table>
@@ -355,10 +337,10 @@ timeline
 <div align="center">
 
 > "Alex es un desarrollador excepcional con gran capacidad de aprendizaje y compromiso con la calidad del código."  
-> **— Equipo Presencia Web Santander**
+> **— Team Presencia Web Santander**
 
 > "Su dominio en conocimientos DevOps ha sido fundamental para el éxito de nuestros proyectos."  
-> **— Líder Técnico**
+> **— Senior Leader**
 
 </div>
 
