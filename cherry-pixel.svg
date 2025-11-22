@@ -1,153 +1,151 @@
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 140" width="160" height="140">
   <defs>
-    <style>
-      @keyframes float {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-15px); }
-      }
-      @keyframes swing {
-        0%, 100% { transform: rotate(-5deg); }
-        50% { transform: rotate(5deg); }
-      }
-      .cherry-group {
-        animation: float 3s ease-in-out infinite;
-        transform-origin: center;
-      }
-      .stem {
-        animation: swing 2s ease-in-out infinite;
-        transform-origin: top center;
-      }
-    </style>
+    <!-- Animación de levitación -->
+    <animateTransform
+      id="float"
+      attributeName="transform"
+      type="translate"
+      values="0,0; 0,-8; 0,0"
+      dur="3s"
+      repeatCount="indefinite"
+    />
   </defs>
   
-  <g class="cherry-group">
-    <!-- Stems/Tallos -->
-    <g class="stem">
-      <!-- Left stem -->
-      <rect x="60" y="40" width="10" height="10" fill="#000"/>
-      <rect x="50" y="50" width="10" height="10" fill="#000"/>
-      <rect x="40" y="60" width="10" height="10" fill="#000"/>
-      <rect x="30" y="70" width="10" height="10" fill="#000"/>
-      <rect x="30" y="80" width="10" height="10" fill="#000"/>
-      
-      <!-- Right stem -->
-      <rect x="70" y="40" width="10" height="10" fill="#000"/>
-      <rect x="80" y="50" width="10" height="10" fill="#000"/>
-      <rect x="90" y="60" width="10" height="10" fill="#000"/>
-      <rect x="100" y="70" width="10" height="10" fill="#000"/>
-      <rect x="110" y="80" width="10" height="10" fill="#000"/>
-      <rect x="120" y="90" width="10" height="10" fill="#000"/>
-    </g>
+  <!-- Grupo de la cereza izquierda con animación -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0,0; 0,-8; 0,0"
+      dur="3s"
+      repeatCount="indefinite"
+    />
     
-    <!-- Leaves/Hojas -->
-    <!-- Left leaf -->
-    <rect x="40" y="30" width="10" height="10" fill="#000"/>
-    <rect x="50" y="30" width="10" height="10" fill="#000"/>
-    <rect x="30" y="40" width="10" height="10" fill="#000"/>
-    <rect x="40" y="40" width="10" height="10" fill="#6ebe87"/>
-    <rect x="50" y="40" width="10" height="10" fill="#6ebe87"/>
-    <rect x="60" y="40" width="10" height="10" fill="#000"/>
-    <rect x="30" y="50" width="10" height="10" fill="#000"/>
-    <rect x="40" y="50" width="10" height="10" fill="#52a86f"/>
-    <rect x="50" y="50" width="10" height="10" fill="#52a86f"/>
-    <rect x="60" y="50" width="10" height="10" fill="#000"/>
-    <rect x="40" y="60" width="10" height="10" fill="#000"/>
-    <rect x="50" y="60" width="10" height="10" fill="#000"/>
+    <!-- Tallo izquierdo (negro) -->
+    <rect x="44" y="40" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="44" y="48" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="44" y="56" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="44" y="64" width="8" height="8" fill="#1e1e2e"/>
     
-    <!-- Right leaf -->
-    <rect x="90" y="30" width="10" height="10" fill="#000"/>
-    <rect x="100" y="30" width="10" height="10" fill="#000"/>
-    <rect x="90" y="40" width="10" height="10" fill="#000"/>
-    <rect x="100" y="40" width="10" height="10" fill="#6ebe87"/>
-    <rect x="110" y="40" width="10" height="10" fill="#6ebe87"/>
-    <rect x="120" y="40" width="10" height="10" fill="#000"/>
-    <rect x="90" y="50" width="10" height="10" fill="#000"/>
-    <rect x="100" y="50" width="10" height="10" fill="#52a86f"/>
-    <rect x="110" y="50" width="10" height="10" fill="#52a86f"/>
-    <rect x="120" y="50" width="10" height="10" fill="#000"/>
-    <rect x="100" y="60" width="10" height="10" fill="#000"/>
-    <rect x="110" y="60" width="10" height="10" fill="#000"/>
+    <!-- Cereza izquierda (roja) -->
+    <rect x="28" y="72" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="36" y="64" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="44" y="64" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="52" y="72" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="20" y="80" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="52" y="80" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="20" y="88" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="52" y="88" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="20" y="96" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="52" y="96" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="28" y="104" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="44" y="104" width="8" height="8" fill="#1e1e2e"/>
     
-    <!-- Left Cherry/Cereza izquierda -->
-    <!-- Outline -->
-    <rect x="20" y="90" width="10" height="10" fill="#000"/>
-    <rect x="30" y="90" width="10" height="10" fill="#000"/>
-    <rect x="40" y="90" width="10" height="10" fill="#000"/>
-    <rect x="50" y="90" width="10" height="10" fill="#000"/>
-    <rect x="10" y="100" width="10" height="10" fill="#000"/>
-    <rect x="60" y="100" width="10" height="10" fill="#000"/>
-    <rect x="10" y="110" width="10" height="10" fill="#000"/>
-    <rect x="60" y="110" width="10" height="10" fill="#000"/>
-    <rect x="10" y="120" width="10" height="10" fill="#000"/>
-    <rect x="60" y="120" width="10" height="10" fill="#000"/>
-    <rect x="10" y="130" width="10" height="10" fill="#000"/>
-    <rect x="60" y="130" width="10" height="10" fill="#000"/>
-    <rect x="20" y="140" width="10" height="10" fill="#000"/>
-    <rect x="30" y="140" width="10" height="10" fill="#000"/>
-    <rect x="40" y="140" width="10" height="10" fill="#000"/>
-    <rect x="50" y="140" width="10" height="10" fill="#000"/>
+    <!-- Relleno rojo -->
+    <rect x="28" y="80" width="8" height="8" fill="#f38ba8"/>
+    <rect x="36" y="72" width="8" height="8" fill="#f38ba8"/>
+    <rect x="36" y="80" width="8" height="8" fill="#eba0ac"/>
+    <rect x="36" y="88" width="8" height="8" fill="#eba0ac"/>
+    <rect x="36" y="96" width="8" height="8" fill="#f38ba8"/>
+    <rect x="44" y="72" width="8" height="8" fill="#f38ba8"/>
+    <rect x="44" y="80" width="8" height="8" fill="#eba0ac"/>
+    <rect x="44" y="88" width="8" height="8" fill="#eba0ac"/>
+    <rect x="44" y="96" width="8" height="8" fill="#f38ba8"/>
+    <rect x="28" y="88" width="8" height="8" fill="#eba0ac"/>
+    <rect x="28" y="96" width="8" height="8" fill="#f38ba8"/>
     
-    <!-- Fill light red -->
-    <rect x="20" y="100" width="10" height="10" fill="#f38ba8"/>
-    <rect x="30" y="100" width="10" height="10" fill="#f38ba8"/>
-    <rect x="40" y="100" width="10" height="10" fill="#f38ba8"/>
-    <rect x="50" y="100" width="10" height="10" fill="#f38ba8"/>
-    <rect x="20" y="110" width="10" height="10" fill="#f38ba8"/>
-    <rect x="50" y="110" width="10" height="10" fill="#f38ba8"/>
-    <rect x="20" y="120" width="10" height="10" fill="#f38ba8"/>
-    <rect x="50" y="120" width="10" height="10" fill="#f38ba8"/>
+    <!-- Brillos blancos -->
+    <rect x="36" y="80" width="8" height="8" fill="#cdd6f4"/>
+    <rect x="44" y="88" width="8" height="8" fill="#cdd6f4"/>
+  </g>
+  
+  <!-- Grupo de la cereza derecha con animación (ligeramente desfasada) -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0,2; 0,-6; 0,2"
+      dur="3s"
+      begin="0.5s"
+      repeatCount="indefinite"
+    />
     
-    <!-- Fill dark red -->
-    <rect x="30" y="110" width="10" height="10" fill="#d8456d"/>
-    <rect x="40" y="110" width="10" height="10" fill="#d8456d"/>
-    <rect x="20" y="130" width="10" height="10" fill="#d8456d"/>
-    <rect x="30" y="130" width="10" height="10" fill="#d8456d"/>
-    <rect x="40" y="130" width="10" height="10" fill="#d8456d"/>
-    <rect x="50" y="130" width="10" height="10" fill="#d8456d"/>
+    <!-- Tallo derecho (negro) -->
+    <rect x="108" y="40" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="108" y="48" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="108" y="56" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="108" y="64" width="8" height="8" fill="#1e1e2e"/>
     
-    <!-- Highlight white -->
-    <rect x="30" y="120" width="10" height="10" fill="#fff"/>
-    <rect x="40" y="120" width="10" height="10" fill="#fff"/>
+    <!-- Cereza derecha (roja) -->
+    <rect x="92" y="72" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="100" y="64" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="108" y="64" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="116" y="72" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="84" y="80" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="116" y="80" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="84" y="88" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="116" y="88" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="84" y="96" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="116" y="96" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="92" y="104" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="108" y="104" width="8" height="8" fill="#1e1e2e"/>
     
-    <!-- Right Cherry/Cereza derecha -->
-    <!-- Outline -->
-    <rect x="80" y="110" width="10" height="10" fill="#000"/>
-    <rect x="90" y="110" width="10" height="10" fill="#000"/>
-    <rect x="100" y="110" width="10" height="10" fill="#000"/>
-    <rect x="110" y="110" width="10" height="10" fill="#000"/>
-    <rect x="70" y="120" width="10" height="10" fill="#000"/>
-    <rect x="120" y="120" width="10" height="10" fill="#000"/>
-    <rect x="70" y="130" width="10" height="10" fill="#000"/>
-    <rect x="120" y="130" width="10" height="10" fill="#000"/>
-    <rect x="70" y="140" width="10" height="10" fill="#000"/>
-    <rect x="120" y="140" width="10" height="10" fill="#000"/>
-    <rect x="70" y="150" width="10" height="10" fill="#000"/>
-    <rect x="120" y="150" width="10" height="10" fill="#000"/>
-    <rect x="80" y="160" width="10" height="10" fill="#000"/>
-    <rect x="90" y="160" width="10" height="10" fill="#000"/>
-    <rect x="100" y="160" width="10" height="10" fill="#000"/>
-    <rect x="110" y="160" width="10" height="10" fill="#000"/>
+    <!-- Relleno rojo -->
+    <rect x="92" y="80" width="8" height="8" fill="#f38ba8"/>
+    <rect x="100" y="72" width="8" height="8" fill="#f38ba8"/>
+    <rect x="100" y="80" width="8" height="8" fill="#eba0ac"/>
+    <rect x="100" y="88" width="8" height="8" fill="#eba0ac"/>
+    <rect x="100" y="96" width="8" height="8" fill="#f38ba8"/>
+    <rect x="108" y="72" width="8" height="8" fill="#f38ba8"/>
+    <rect x="108" y="80" width="8" height="8" fill="#eba0ac"/>
+    <rect x="108" y="88" width="8" height="8" fill="#eba0ac"/>
+    <rect x="108" y="96" width="8" height="8" fill="#f38ba8"/>
+    <rect x="92" y="88" width="8" height="8" fill="#eba0ac"/>
+    <rect x="92" y="96" width="8" height="8" fill="#f38ba8"/>
     
-    <!-- Fill light red -->
-    <rect x="80" y="120" width="10" height="10" fill="#f38ba8"/>
-    <rect x="90" y="120" width="10" height="10" fill="#f38ba8"/>
-    <rect x="100" y="120" width="10" height="10" fill="#f38ba8"/>
-    <rect x="110" y="120" width="10" height="10" fill="#f38ba8"/>
-    <rect x="80" y="130" width="10" height="10" fill="#f38ba8"/>
-    <rect x="110" y="130" width="10" height="10" fill="#f38ba8"/>
-    <rect x="80" y="140" width="10" height="10" fill="#f38ba8"/>
-    <rect x="110" y="140" width="10" height="10" fill="#f38ba8"/>
+    <!-- Brillos blancos -->
+    <rect x="100" y="80" width="8" height="8" fill="#cdd6f4"/>
+    <rect x="108" y="88" width="8" height="8" fill="#cdd6f4"/>
+  </g>
+  
+  <!-- Hojas verdes en el centro -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0,0; 0,-8; 0,0"
+      dur="3s"
+      repeatCount="indefinite"
+    />
     
-    <!-- Fill dark red -->
-    <rect x="90" y="130" width="10" height="10" fill="#d8456d"/>
-    <rect x="100" y="130" width="10" height="10" fill="#d8456d"/>
-    <rect x="80" y="150" width="10" height="10" fill="#d8456d"/>
-    <rect x="90" y="150" width="10" height="10" fill="#d8456d"/>
-    <rect x="100" y="150" width="10" height="10" fill="#d8456d"/>
-    <rect x="110" y="150" width="10" height="10" fill="#d8456d"/>
+    <!-- Hoja izquierda -->
+    <rect x="52" y="16" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="44" y="24" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="52" y="24" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="60" y="24" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="36" y="32" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="44" y="32" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="52" y="32" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="60" y="32" width="8" height="8" fill="#1e1e2e"/>
     
-    <!-- Highlight white -->
-    <rect x="90" y="140" width="10" height="10" fill="#fff"/>
-    <rect x="100" y="140" width="10" height="10" fill="#fff"/>
+    <!-- Relleno verde hoja izquierda -->
+    <rect x="52" y="24" width="8" height="8" fill="#a6e3a1"/>
+    <rect x="44" y="32" width="8" height="8" fill="#a6e3a1"/>
+    <rect x="52" y="32" width="8" height="8" fill="#94e2d5"/>
+    
+    <!-- Hoja derecha -->
+    <rect x="100" y="16" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="92" y="24" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="100" y="24" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="108" y="24" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="92" y="32" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="100" y="32" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="108" y="32" width="8" height="8" fill="#1e1e2e"/>
+    <rect x="116" y="32" width="8" height="8" fill="#1e1e2e"/>
+    
+    <!-- Relleno verde hoja derecha -->
+    <rect x="100" y="24" width="8" height="8" fill="#a6e3a1"/>
+    <rect x="108" y="32" width="8" height="8" fill="#a6e3a1"/>
+    <rect x="100" y="32" width="8" height="8" fill="#94e2d5"/>
   </g>
 </svg>
