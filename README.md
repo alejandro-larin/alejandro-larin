@@ -76,7 +76,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-\`\`\`javascript
+```javascript
 const alexLarin = {
     name: "Alex Larin",
     role: "Full Stack Web Developer",
@@ -123,7 +123,7 @@ const alexLarin = {
     currentFocus: "Construyendo aplicaciones web escalables y modernas",
     funFact: "El mejor código es el que no necesita comentarios... pero siempre los escribo 😄"
 };
-\`\`\`
+```
 
 <br clear="right"/>
 
@@ -222,7 +222,7 @@ const alexLarin = {
 
 <div align="center">
 
-\`\`\`mermaid
+\\\mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e1e2e', 'primaryTextColor':'#cdd6f4', 'primaryBorderColor':'#89b4fa', 'lineColor':'#cba6f7', 'secondaryColor':'#313244', 'tertiaryColor':'#1e1e2e'}}}%%
 timeline
     title Mi Trayectoria Profesional & Académica
@@ -241,7 +241,7 @@ timeline
          : Docker & Kubernetes
          : Google Cloud Platform
          : Integración de IA con Ollama
-\`\`\`
+\\\
 
 </div>
 
@@ -382,7 +382,7 @@ timeline
 
 <div align="center">
 
-\`\`\`typescript
+```typescript
 interface Goals2025 {
   learning: string[];
   projects: string[];
@@ -416,7 +416,7 @@ const myGoals: Goals2025 = {
     "Expandir red profesional internacional"
   ]
 };
-\`\`\`
+```
 
 </div>
 
