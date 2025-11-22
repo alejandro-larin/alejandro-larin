@@ -63,12 +63,12 @@
 ---
 
 ## 🪴 About Me
+<img align="right" alt="Cherry" width="200" src="https://raw.githubusercontent.com/alejandro-larin/alejandro-larin/main/cherry.svg">
 
 I am **Alejandro Larin**, my work focuses on building scalable, cloud-ready and high-performance systems‑. I combine software expertise to deliver reliable solutions with clear architecture, clean code and automation at the center. I focus on clarity, conciseness and impact: 
 - **Clear purpose —** I design systems that solve real problems. 
 - **Structured reasoning —** I build architectures that are predictable, testable and maintainable. 
 - **High ‑ value execution —** I optimize delivery processes, automate operations and improve product quality. I thrive in environments where technology, strategy and creativity converge.
-<img align="right" alt="Cherry" width="200" src="https://raw.githubusercontent.com/alejandro-larin/alejandro-larin/main/cherry.svg">
 
 <br clear="right"/>
 
@@ -152,8 +152,22 @@ I am **Alejandro Larin**, my work focuses on building scalable, cloud-ready and 
 ## 💼 Professional experience
 
 <div align="center">
-```mermaid %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e1e2e', 'primaryTextColor':'#cdd6f4', 'primaryBorderColor':'#89b4fa', 'lineColor':'#cba6f7', 'secondaryColor':'#313244', 'tertiaryColor':'#1e1e2e'}}}%% timeline title My Professional & Academic Career 2021: Home in Web Development : HTML, CSS, JavaScript : First personal projects 2022: Admission to Universidad del Atlántico : FUNIBER Scholarship : Programming Fundamentals 2023: Developer in Santander Web Presence : Development with TypeScript and NestJS : CI/CD implementation : Working with enterprise WordPress 2024: Full Stack Developer : Microservices Architecture : Docker & Kubernetes : Google Cloud Platform : AI integration with Ollama ```
 
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 
+    'primaryColor':'#1e1e2e', 
+    'primaryTextColor':'#cdd6f4',
+    'primaryBorderColor':'#89b4fa',
+    'lineColor':'#cba6f7',
+    'secondaryColor':'#313244', 
+    'tertiaryColor':'#1e1e2e'
+}}}%%
+timeline
+    2021 : Home in Web Development : HTML, CSS, JavaScript : First personal projects
+    2022 : Admission to Universidad del Atlántico : FUNIBER Scholarship : Programming Fundamentals
+    2023 : Developer in Santander Web Presence : Development with TypeScript and NestJS : CI/CD Implementation : Enterprise WordPress
+    2024 : Full Stack Developer : Microservices Architecture : Docker & Kubernetes : Google Cloud Platform : AI Integration with Ollama
+```
 </div>
 
 ---
@@ -261,7 +275,7 @@ I am **Alejandro Larin**, my work focuses on building scalable, cloud-ready and 
 
 </div>
 
-## 💬 Habilidades Blandas
+## 💬 Soft Skills
 
 <div align="center">
 
@@ -290,7 +304,7 @@ I am **Alejandro Larin**, my work focuses on building scalable, cloud-ready and 
 
 ---
 
-## 📫 Conecta Conmigo
+## 📫 Connect with me
 
 <div align="center">
 
