@@ -76,54 +76,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```javascript
-const alexLarin = {
-    name: "Alex Larin",
-    role: "Full Stack Web Developer",
-    education: {
-        university: "Universidad del Atlántico",
-        degree: "Ingeniería Informática",
-        scholarship: "Becado FUNIBER"
-    },
-    currentWork: {
-        organization: "Presencia Web Santander",
-        department: "Desarrollo Web",
-        role: "Developer Team Member"
-    },
-    code: [
-        "JavaScript", "TypeScript", "Python", "AppScript"
-    ],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            cms: ["WordPress"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["FastAPI", "Django"]
-        },
-        databases: [
-            "MongoDB", "PostgreSQL", "MySQL", "Redis"
-        ],
-        devOps: [
-            "Docker", "Kubernetes", "Jenkins",
-            "GitLab CI/CD", "GitHub Actions"
-        ],
-        cloud: [
-            "Google Cloud Platform", "AWS", "Vercel"
-        ],
-        ai: ["Ollama", "LangChain", "OpenAI"],
-        testing: ["Jest", "Pytest", "Cypress"],
-        tools: ["Git", "Linux", "VS Code", "Postman"]
-    },
-    architecture: [
-        "Microservices", "RESTful APIs", 
-        "GraphQL", "Serverless"
-    ],
-    currentFocus: "Construyendo aplicaciones web escalables y modernas",
-};
-```
-
 <br clear="right"/>
 
 ---
@@ -195,27 +147,15 @@ const alexLarin = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alejandro-larin&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f38ba8&currStreakLabel=cdd6f4" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro-larin&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f38ba8&currStreakLabel=cdd6f4" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-larin&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&langs_count=8" alt="Top Languages" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=catppuccin-mocha&hide_border=true&bg_color=1e1e2e&color=89b4fa&line=cba6f7&point=f38ba8" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=catppuccin_mocha&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-larin&theme=catppuccin-mocha&hide_border=true&bg_color=1e1e2e&color=89b4fa&line=cba6f7&point=f38ba8" alt="Contribution Graph" />
 
 </div>
-
----
 
 ## 💼 Experiencia Profesional
 
@@ -276,11 +216,11 @@ timeline
     <td width="50%">
       <h3 align="center">Sistema de Gestión Empresarial</h3>
       <div align="center">
-        <a href="https://github.com/TU_USUARIO/proyecto1" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto1&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 1" />
+        <a href="https://github.com/alejandro-larin/proyecto1" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto1&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 1" />
         </a>
         <p>
-          <a href="https://github.com/TU_USUARIO/proyecto1" target="_blank">
+          <a href="https://github.com/alejandro-larin/proyecto1" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Código"/>
           </a>
           <a href="https://proyecto1-demo.com" target="_blank">
@@ -294,11 +234,11 @@ timeline
     <td width="50%">
       <h3 align="center">API RESTful con CI/CD</h3>
       <div align="center">
-        <a href="https://github.com/TU_USUARIO/proyecto2" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto2&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 2" />
+        <a href="https://github.com/alejandro-larin/proyecto2" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto2&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 2" />
         </a>
         <p>
-          <a href="https://github.com/TU_USUARIO/proyecto2" target="_blank">
+          <a href="https://github.com/alejandro-larin/proyecto2" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Código"/>
           </a>
           <a href="https://proyecto2-demo.com" target="_blank">
@@ -314,11 +254,11 @@ timeline
     <td width="50%">
       <h3 align="center">Dashboard Analytics</h3>
       <div align="center">
-        <a href="https://github.com/TU_USUARIO/proyecto3" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto3&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 3" />
+        <a href="https://github.com/alejandro-larin/proyecto3" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto3&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 3" />
         </a>
         <p>
-          <a href="https://github.com/TU_USUARIO/proyecto3" target="_blank">
+          <a href="https://github.com/alejandro-larin/proyecto3" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Código"/>
           </a>
           <a href="https://proyecto3-demo.com" target="_blank">
@@ -332,11 +272,11 @@ timeline
     <td width="50%">
       <h3 align="center">Automatización con AppScript</h3>
       <div align="center">
-        <a href="https://github.com/TU_USUARIO/proyecto4" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto4&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 4" />
+        <a href="https://github.com/alejandro-larin/proyecto4" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto4&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 4" />
         </a>
         <p>
-          <a href="https://github.com/TU_USUARIO/proyecto4" target="_blank">
+          <a href="https://github.com/alejandro-larin/proyecto4" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Código"/>
           </a>
         </p>
@@ -357,65 +297,7 @@ timeline
 
 ### Lenguajes más utilizados (Detallado)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&layout=compact" alt="Wakatime Stats" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🎯 Objetivos 2025
-
-<div align="center">
-
-```typescript
-interface Goals2025 {
-  learning: string[];
-  projects: string[];
-  community: string[];
-  career: string[];
-}
-
-const myGoals: Goals2025 = {
-  learning: [
-    "Profundizar en arquitectura de microservicios",
-    "Dominar patrones avanzados de React",
-    "Certificación en Google Cloud Platform",
-    "Aprender Go para backend de alto rendimiento"
-  ],
-  projects: [
-    "Contribuir a proyectos open source",
-    "Desarrollar una SaaS completa",
-    "Crear contenido técnico en español",
-    "Implementar proyectos con IA generativa"
-  ],
-  community: [
-    "Mentoría a estudiantes de desarrollo",
-    "Participar en eventos tech locales",
-    "Escribir artículos técnicos",
-    "Compartir conocimiento en redes"
-  ],
-  career: [
-    "Completar Ingeniería Informática",
-    "Fortalecer habilidades de arquitectura",
-    "Liderar proyectos en Presencia Web",
-    "Expandir red profesional internacional"
-  ]
-};
-```
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alejandro-larin&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&layout=compact" alt="Wakatime Stats" />
 
 </div>
 
@@ -496,12 +378,12 @@ const myGoals: Goals2025 = {
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20Perfil&color=89b4fa&style=for-the-badge&base=1000" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=alejandro-larin&label=Visitas%20al%20Perfil&color=89b4fa&style=for-the-badge&base=1000" alt="Profile Views" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=for-the-badge&color=89b4fa&labelColor=1e1e2e" alt="Followers" />
-<img src="https://img.shields.io/github/stars/TU_USUARIO?label=Stars&style=for-the-badge&color=cba6f7&labelColor=1e1e2e" alt="Stars" />
+<img src="https://img.shields.io/github/followers/alejandro-larin?label=Seguidores&style=for-the-badge&color=89b4fa&labelColor=1e1e2e" alt="Followers" />
+<img src="https://img.shields.io/github/stars/alejandro-larin?label=Stars&style=for-the-badge&color=cba6f7&labelColor=1e1e2e" alt="Stars" />
 
 </div>
 
@@ -514,7 +396,7 @@ const myGoals: Goals2025 = {
 > "Alex es un desarrollador excepcional con gran capacidad de aprendizaje y compromiso con la calidad del código."  
 > **— Equipo Presencia Web Santander**
 
-> "Su dominio de TypeScript y NestJS ha sido fundamental para el éxito de nuestros proyectos."  
+> "Su dominio en conocimientos DevOps ha sido fundamental para el éxito de nuestros proyectos."  
 > **— Líder Técnico**
 
 </div>
@@ -569,5 +451,5 @@ const myGoals: Goals2025 = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=¡Construyamos%20algo%20increíble%20juntos!&fontSize=24&fontColor=cdd6f4&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=¡Your%20code%20your%20Art!&fontSize=24&fontColor=cdd6f4&animation=twinkling" width="100%"/>
 </div>
