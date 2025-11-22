@@ -64,7 +64,7 @@
 
 ## 🪴 Sobre Mí
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/alexlarin/alexlarin/main/cherry-pixel.svg">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/alejandro-larin/alejandro-larin/main/cherry-pixel.svg">
 
 <br clear="right"/>
 
