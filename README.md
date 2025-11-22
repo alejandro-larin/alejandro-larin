@@ -1,7 +1,12 @@
 <div align="center">
+  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=headeranimation=twinkling" width="100%"/>
+</div>
 
 <!-- Banner SVG Animado con tema Catppuccin -->
 <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Removiendo filtro glow que causa problemas de renderizado en GitHub -->
   <defs>
     <linearGradient id="catppuccin-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#89b4fa;stop-opacity:1">
@@ -14,14 +19,6 @@
         <animate attributeName="stop-color" values="#f38ba8;#fab387;#89b4fa;#f38ba8" dur="8s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
-    
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
   
   <!-- Fondo -->
@@ -45,34 +42,27 @@
     <animate attributeName="opacity" values="0.6;1;0.6" dur="6s" repeatCount="indefinite" />
   </circle>
   
-  <!-- Texto principal con gradiente -->
-  <text x="50%" y="100" font-family="'Courier New', monospace" font-size="48" font-weight="bold" fill="url(#catppuccin-gradient)" text-anchor="middle" filter="url(#glow)">
-    &lt;Alex Larin /&gt;
-    <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite" />
-  </text>
   
-  <!-- Subtítulo -->
-  <text x="50%" y="130" font-family="'Courier New', monospace" font-size="18" fill="#cdd6f4" text-anchor="middle" opacity="0.8">
-    Full Stack Web Developer | Software Engineer
-  </text>
+
   
+  # ✨ Full Stack Web Developer | Software Engineer ✨
+
   <!-- Línea decorativa animada -->
-  <line x1="20%" y1="160" x2="80%" y2="160" stroke="url(#catppuccin-gradient)" stroke-width="2" stroke-linecap="round">
+ <line x1="20%" y1="160" x2="80%" y2="160" stroke="url(#catppuccin-gradient)" stroke-width="2" stroke-linecap="round">
     <animate attributeName="x1" values="20%;30%;20%" dur="4s" repeatCount="indefinite" />
     <animate attributeName="x2" values="80%;70%;80%" dur="4s" repeatCount="indefinite" />
-  </line>
 </svg>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Construyendo+soluciones+escalables+%F0%9F%9A%80;Becado+Universidad+del+Atl%C3%A1ntico+%F0%9F%8E%93;Miembro+de+Presencia+Web+Santander+%F0%9F%92%BB;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Construyendo+soluciones+escalables;Becado+Universidad+del+Atl%C3%A1ntico;Miembro+de+Presencia+Web+Santander;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mí
+## 🪴 Sobre Mí
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -80,7 +70,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -143,7 +133,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 GitHub Stats
 
 <div align="center">
   
@@ -289,35 +279,6 @@ timeline
 
 </div>
 
----
-
-## 📈 Contribuciones & Actividad
-
-<div align="center">
-
-### Lenguajes más utilizados (Detallado)
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alejandro-larin&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&layout=compact" alt="Wakatime Stats" />
-
-</div>
-
----
-
-## 📝 Blog & Artículos
-
-<div align="center">
-
-| Título | Tecnología | Fecha | Link |
-|--------|-----------|-------|------|
-| Implementando CI/CD con GitLab y Docker | DevOps | 2024 | [Leer →](https://tu-blog.com) |
-| NestJS: Arquitectura escalable para APIs | Backend | 2024 | [Leer →](https://tu-blog.com) |
-| TypeScript: Tips y mejores prácticas | Frontend | 2024 | [Leer →](https://tu-blog.com) |
-| Kubernetes en producción: Guía práctica | Cloud | 2024 | [Leer →](https://tu-blog.com) |
-
-</div>
-
----
-
 ## 💬 Habilidades Blandas
 
 <div align="center">
@@ -374,7 +335,7 @@ timeline
 
 ---
 
-## 📈 Profile Views & Stats
+## 🐢 Profile Views & Stats
 
 <div align="center">
   
@@ -434,7 +395,7 @@ timeline
   </text>
   
   <text x="50%" y="95" font-family="'Courier New', monospace" font-size="12" fill="#89b4fa" text-anchor="middle" opacity="0.7">
-    Made with ❤️ by Alex Larin | Universidad del Atlántico
+    Made with 🍒 by Alex Larin | Universidad del Atlántico
   </text>
   
   <!-- Partículas decorativas -->
@@ -451,5 +412,5 @@ timeline
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=¡Your%20code%20your%20Art!&fontSize=24&fontColor=cdd6f4&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=¡Your%20code,%20your%20Art!&fontSize=24&fontColor=cdd6f4&animation=twinkling" width="100%"/>
 </div>
