@@ -238,7 +238,7 @@ timeline
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Dashboard Analytics</h3>
+      <h3 align="center">Floral</h3>
       <div align="center">
         <a href="https://github.com/alejandro-larin/proyecto3" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto3&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 3" />
@@ -251,23 +251,8 @@ timeline
             <img src="https://img.shields.io/badge/DEMO-1e1e2e?style=for-the-badge&logo=vercel&logoColor=89b4fa" alt="Demo"/>
           </a>
         </p>
-        <p><strong>React, TypeScript, Tailwind, Chart.js</strong></p>
-        <p>Interactive dashboard with real-time data visualization and modern responsive design.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Automation with AppScript</h3>
-      <div align="center">
-        <a href="https://github.com/alejandro-larin/proyecto4" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto4&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 4" />
-        </a>
-        <p>
-          <a href="https://github.com/alejandro-larin/proyecto4" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Code"/>
-          </a>
-        </p>
-        <p><strong>Google AppScript, Sheets API, Gmail API</strong></p>
-        <p>Automation tools for Google Workspace, data processing and automatic reports.</p>
+        <p><strong>JavaScript, HTML, CSS</strong></p>
+        <p>Floral is a personal project to practice advanced logic and design skills in HTML, CSS and JS all Vanilla from scratch and without AI </p>
       </div>
     </td>
   </tr>
