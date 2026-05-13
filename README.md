@@ -200,44 +200,6 @@ timeline
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Business Management System</h3>
-      <div align="center">
-        <a href="https://github.com/alejandro-larin/proyecto1" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto1&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 1" />
-        </a>
-        <p>
-          <a href="https://github.com/alejandro-larin/proyecto1" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Code"/>
-          </a>
-          <a href="https://proyecto1-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-1e1e2e?style=for-the-badge&logo=vercel&logoColor=89b4fa" alt="Demo"/>
-          </a>
-        </p>
-        <p><strong>NestJS, TypeScript, PostgreSQL, Docker</strong></p>
-        <p>Complete management system with microservices architecture, JWT authentication and administration panel.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">API RESTful with CI/CD</h3>
-      <div align="center">
-        <a href="https://github.com/alejandro-larin/proyecto2" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto2&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 2" />
-        </a>
-        <p>
-          <a href="https://github.com/alejandro-larin/proyecto2" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Code"/>
-          </a>
-          <a href="https://proyecto2-demo.com" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-1e1e2e?style=for-the-badge&logo=vercel&logoColor=89b4fa" alt="Demo"/>
-          </a>
-        </p>
-        <p><strong>Express, MongoDB, Jenkins, GitLab CI</strong></p>
-        <p>Scalable API with automated CI/CD pipeline, testing with Jest and deployment in Google Cloud.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">Floral</h3>
       <div align="center">
         <a href="https://github.com/alejandro-larin/proyecto3" target="_blank">
@@ -293,23 +255,23 @@ timeline
 
 <div align="center">
 
-<a href="https://linkedin.com/in/tu-perfil">
+<a href="https://www.linkedin.com/in/alejandro-larin/?locale=en">
   <img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/tu-usuario">
-  <img src="https://img.shields.io/badge/Twitter-1e1e2e?style=for-the-badge&logo=twitter&logoColor=89b4fa" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-1e1e2e?style=for-the-badge&logo=x" alt="Twitter (X)"/>
 </a>
-<a href="mailto:alex.larin@example.com">
+<a href="mailto:alejandro.larin.orellana@gmail.com">
   <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" alt="Email"/>
 </a>
 <a href="https://tu-portfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-1e1e2e?style=for-the-badge&logo=firefox&logoColor=fab387" alt="Portfolio"/>
 </a>
-<a href="https://dev.to/tu-usuario">
+<a href="https://dev.to/alejandro-larin">
   <img src="https://img.shields.io/badge/Dev.to-1e1e2e?style=for-the-badge&logo=dev.to&logoColor=cdd6f4" alt="Dev.to"/>
 </a>
-<a href="https://gitlab.com/tu-usuario">
-  <img src="https://img.shields.io/badge/GitLab-1e1e2e?style=for-the-badge&logo=gitlab&logoColor=fab387" alt="GitLab"/>
+<a href="https://www.facebook.com/profile.php?id=61554300696100">
+  <img src="https://img.shields.io/badge/Facebook-1e1e2e?style=for-the-badge&logo=facebook&logoColor=a3c4ff" alt="GitLab"/>
 </a>
 
 </div>
