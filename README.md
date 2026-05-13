@@ -138,15 +138,15 @@ I am **Alejandro Larin**, my work focuses on building scalable, cloud-ready and 
 ## 🔭 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alejandro-larin&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="GitHub Stats" />
+<img width="48%" src="https://profile-github-readme-stats.vercel.app/api?username=alejandro-larin&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro-larin&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f38ba8&currStreakLabel=cdd6f4" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro-larin&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f38ba8&currStreakLabel=cdd6f4" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-larin&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&langs_count=8" alt="Top Languages" />
+<br/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-larin&theme=catppuccin-mocha&hide_border=true&bg_color=1e1e2e&color=89b4fa&line=cba6f7&point=f38ba8" alt="Contribution Graph" />
+<img width="48%" src="https://profile-github-readme-stats.vercel.app/api/top-langs/?username=alejandro-larin&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&langs_count=8" />
 
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-larin&theme=catppuccin-mocha&hide_border=true&bg_color=1e1e2e&color=89b4fa&line=cba6f7&point=f38ba8" />
 </div>
 
 ## 💼 Professional experience
