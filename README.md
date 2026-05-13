@@ -227,7 +227,7 @@ timeline
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Teamwork-1e1e2e?style=for-the-badge&logo=microsoft-teams&logoColor=89b4fa" alt="Teamwork"/>
+      <img src="https://img.shields.io/badge/Teamwork-1e1e2e?style=for-the-badge&logo=framework&logoColor=89b4fa" alt="Teamwork"/>
       <p>Effective collaboration in multidisciplinary teams</p>
     </td>
     <td align="center" width="25%">
