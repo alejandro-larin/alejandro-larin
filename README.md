@@ -198,21 +198,21 @@ timeline
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Floral</h3>
+      <h3 align="center">🌸 Floral Web</h3>
       <div align="center">
-        <a href="https://github.com/alejandro-larin/proyecto3" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandro-larin&repo=proyecto3&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&icon_color=cba6f7&text_color=cdd6f4" alt="Proyecto 3" />
+        <a href="https://github.com/alejandro-larin/floral-web" target="_blank">
+          <img src="https://raw.githubusercontent.com/alejandro-larin/floral-web/main/assets/img/docs.png" alt="Floral Web" />
         </a>
         <p>
-          <a href="https://github.com/alejandro-larin/proyecto3" target="_blank">
+          <a href="https://github.com/alejandro-larin/floral-web" target="_blank">
             <img src="https://img.shields.io/badge/CODE-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="Code"/>
           </a>
-          <a href="https://proyecto3-demo.com" target="_blank">
+          <a href="https://alejandro-larin.github.io/floral-web/auth/sign-in/" target="_blank">
             <img src="https://img.shields.io/badge/DEMO-1e1e2e?style=for-the-badge&logo=vercel&logoColor=89b4fa" alt="Demo"/>
           </a>
         </p>
         <p><strong>JavaScript, HTML, CSS</strong></p>
-        <p>Floral is a personal project to practice advanced logic and design skills in HTML, CSS and JS all Vanilla from scratch and without AI </p>
+        <p>Floral is a personal project to practice advanced logic and design skills in HTML, CSS and JS all Vanilla </p>
       </div>
     </td>
   </tr>
